@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+subgrounds = "*"
+jupyter = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+millify = "*"
+plotly = "*"
+jupyterlab-dash = "*"
+jupyter-dash = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
